@@ -1,1 +1,2 @@
-# JSPlatformer-MythD_P2-vF3
+# JSPlatformer
+JS Platformer for DIG 3480C
